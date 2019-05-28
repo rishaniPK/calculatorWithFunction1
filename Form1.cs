@@ -77,7 +77,7 @@ namespace calculatorWithFunction1
 
         private void Btn_clear_Click(object sender, EventArgs e)
         {
-
+            
             this.Controls.Clear();
             this.InitializeComponent();
         }
